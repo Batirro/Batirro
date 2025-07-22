@@ -13,10 +13,25 @@
 <a href="https://www.leetcode.com/https://leetcode.com/u/bartlomiej_rutkowski/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/bartlomiej_rutkowski/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,flask,html,css,git,docker,c++,java" />
+    <img src="https://skillicons.dev/icons?i=py,html,css,cpp,java,postgres,lua" />
+  </a>
+</p>
+
+<h3 align="left">Tools:</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flask,git,docker" />
+  </a>
+</p>
+
+
+<h3 align="left">Systems:</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=windows,linux" />
   </a>
 </p>
 
